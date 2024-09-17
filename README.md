@@ -1,2 +1,1 @@
-# Restaurant-landing-page
-Simple Restaurant Landing page designed by React
+A simple landing page
