@@ -1,5 +1,7 @@
 A simple landing page created by React and Vanila CSS
 
+LIVE URL: https://restaurant-landing-page-one-tan.vercel.app/
+
 ![image](https://github.com/user-attachments/assets/3d75d7ba-4544-4c03-b5ff-b7552736aa22)
 ![image](https://github.com/user-attachments/assets/22a6f042-17d8-4d4d-8ebc-47a31527f2a0)
 ![image](https://github.com/user-attachments/assets/5b8f8485-ec78-4060-a5d2-13227de03fb6)
